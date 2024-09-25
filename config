@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	symlinks = false
-	ignorecase = true
-[remote "origin"]
-	url = git@github.com:rtcsa2025/rtcsa2025.github.io.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
